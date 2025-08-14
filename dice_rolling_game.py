@@ -4,13 +4,13 @@
 #  If the user enters y,
 #    generate two random numbers.
 #    print them 
-#. If the user enters n,
+#  If the user enters n,
 #     Print thank you message
 #     terminate 
 #  Else 
-    #   Print invalid choice 
+    #Print invalid choice 
 
-# loop infinitely as long as user want to play
+#loop infinitely as long as user want to play
 
 print('Dice Rolling game (die1, die2) !' )
 
