@@ -1,4 +1,4 @@
-#print "guess a number between 1-100"
+#print "guess a number between 1-10"
 #user inputs number 
 #checks if the input is above or below 
 #hint too high or too low
